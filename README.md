@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Local Notifications](https://github.com/xDaijobu/LocalNotifications)
 
-- 🌱 I’m currently learning **Xamarin, MAUI, etc.**
+- 🌱 I’m currently learning **Flutter, MAUI, etc.**
 
-- 💬 Ask me about **Xamarin, MAUI, C#, DotNet, SQL, PLSQL, & MySQL.**
+- 💬 Ask me about **Flutter, Dart, Xamarin, MAUI, C#, DotNet, SQL, PLSQL, & MySQL.**
 
 - 📫 How to reach me **christwurangian@gmail.com**
 
