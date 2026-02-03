@@ -1,16 +1,19 @@
 ### Hi 👋, I'm Cristover Wurangian
-### A passionate mobile developer from Indonesia
+### A passionate Fullstack Developer (Go & Mobile) from Indonesia
 
+- 🔭 I’m currently working on [tls-watch](https://github.com/xDaijobu/tls-watch) & [Enterprise Projects](https://www.linkedin.com/feed/update/urn:li:activity:7418931723603816448/)
 
-- 🔭 I’m currently working on [Local Notifications](https://github.com/xDaijobu/LocalNotifications)
+- 🌱 I’m currently focusing on **Golang, Docker, & Backend Architecture**
 
-- 🌱 I’m currently learning **Flutter, MAUI, etc.**
-
-- 💬 Ask me about **Flutter, Dart, Xamarin, MAUI, C#, DotNet, SQL, PLSQL, & MySQL.**
+- 💬 Ask me about **Go, Flutter, Dart, C#, .NET MAUI, SQL, & Infrastructure**
 
 - 📫 How to reach me **christwurangian@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xDaijobu&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xDaijobu&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDaijobu&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
