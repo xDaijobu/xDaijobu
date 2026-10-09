@@ -6,7 +6,7 @@
   - **Currently focused on:** agentic AI coding workflows — Claude Code, Codex, Orca, Cline, and Kilo — alongside Go, Docker, and backend architecture
   - **Ask me about:** Go, Flutter, .NET MAUI, SQL, self-hosted infrastructure, or AI-assisted development
   - **Reach me:** christwurangian@gmail.com
-  - **More about my work:** [cristover.dev](https://cristover.dev)
+  - **More about my work:** [cristover.dev](https://www.cristover.dev)
 
   ### GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xDaijobu&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=xDaijobu&show_icons=true&include_all_commits=true&theme=transparent)
